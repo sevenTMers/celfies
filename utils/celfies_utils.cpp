@@ -6,15 +6,13 @@
 
 int LenCelfies(string celfies)
 {
-	
-	return count(celfies.begin(), celfies.end(), '[') + count(celfies.begin(), celfies.end(), '.');
+   return count(celfies.begin(), celfies.end(), '[') + count(celfies.begin(), celfies.end(), '.');
 }
 
 void SplitCelfies(string celfies)
 {
-
-std::regex smiles_re(R"(\[[\w]\]|\[.\w\]|\.)"); 
-std::copy( std::sregex_token_iterator(celfies.begin(), celfies.end(), smiles_re, 0),
+   std::regex smiles_re(R"(\[[\w]\]|\[.\w\]|\.)"); 
+   std::copy( std::sregex_token_iterator(celfies.begin(), celfies.end(), smiles_re, 0),
       std::sregex_token_iterator(),
       std::ostream_iterator<std::string>(std::cout, "\n"));
 }
@@ -23,7 +21,7 @@ std::copy( std::sregex_token_iterator(celfies.begin(), celfies.end(), smiles_re,
 
 /*******************************************************************************
  * 
- * 											LenCelfies 
+ * LenCelfies 
  *
  * takes in a Celfies string and returns the number of symbols 
  * 
@@ -35,7 +33,7 @@ std::copy( std::sregex_token_iterator(celfies.begin(), celfies.end(), smiles_re,
 
 /*******************************************************************************
  *
- * 											SplitCelfies
+ * SplitCelfies
  *
  * Tokenises a Celfie into individual symbols
  *
