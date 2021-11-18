@@ -1,6 +1,6 @@
 # celfies
 
-![FIXME](https://i0.hippopx.com/photos/814/592/965/selfie-children-phone-asia-preview.jpg | width="200" height="400")
+![FIXME](img src="https://i0.hippopx.com/photos/814/592/965/selfie-children-phone-asia-preview.jpg" | width="200" height="400")
 
 [Selfies](https://github.com/aspuru-guzik-group/selfies) but in C++.
 
