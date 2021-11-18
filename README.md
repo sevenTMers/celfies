@@ -1,5 +1,7 @@
 # celfies
 
+![FIXME](https://i0.hippopx.com/photos/814/592/965/selfie-children-phone-asia-preview.jpg)
+
 [Selfies](https://github.com/aspuru-guzik-group/selfies) but in C++.
 
 Why? Because [RDKit in C++](https://www.rdkit.org/docs/GettingStartedInC++.html) and other speed reasons. 
