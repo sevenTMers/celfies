@@ -2,6 +2,8 @@
 
 [Selfies](https://github.com/aspuru-guzik-group/selfies) but in C++.
 
+Why? Because [RDKit in C++](https://www.rdkit.org/docs/GettingStartedInC++.html) and other speed reasons. 
+
 Follow the originators of the ideas & code [@MarioKrenn](https://github.com/MarioKrenn6240), [@AlstonLo](https://github.com/alstonlo), [@SeyoneChithrananda](https://github.com/seyonechithrananda)
 
 # License
