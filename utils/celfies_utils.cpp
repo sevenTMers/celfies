@@ -32,11 +32,10 @@ void split_celfies(string celfies)
  * split_selfies("[C][=C][F].[C]"))
  * >>> ['[C]', '[=C]', '[F]', '.', '[C]']
  */ 
-// this is the right reg ex in tester but doesn't work in c++ regex
-// will fix but even when fixed regex standard library is slow - what is alternative? 
+// this will probably need to be optimized with boost:: 
 
 std::regex smiles_re(R"(\[[\w]\]|\[.\w\]|\.)"); 
-std::copy( std::sregex_token_iterator(celfies.begin(), celfies.end(), smiles_re, -1),
+std::copy( std::sregex_token_iterator(celfies.begin(), celfies.end(), smiles_re, 0),
       std::sregex_token_iterator(),
       std::ostream_iterator<std::string>(std::cout, "\n"));
 }
