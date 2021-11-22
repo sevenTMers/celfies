@@ -1,6 +1,9 @@
 #include <iostream>
 #include <map>
+using namespace std; 
 
+int main()
+{
 // reconsider container type later
 string elements[118] = {
    "H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne", "Na", "Mg",
@@ -20,27 +23,27 @@ string organicSubset[10] = {"B", "C", "N", "O", "S", "P", "F", "Cl", "Br", "I"};
 
 //placeholder code for map
 //ToDo
-std::map<string, int> AromaticValences = {
-   { 'B', (3,) },
-   { 'Al', (3,) },
-   { 'C',  (4,)},
-   { 'Si', (4,) },
-   { 'N', (3, 5) },
-   { 'P', (3, 5) },
-   { 'As', (3, 5) },
-   { 'O', (2,4) },
-   { 'S', (2,4) },
-   { 'Se', (2,4) },
-   { 'Te', (2,4)}
-};
+std::map<string, pair<int,int>> aromaticValences; 
+aromaticValences["B"] = {3, 0}; 
+aromaticValences["Al"] ={3, 0};
+aromaticValences["C"] = {4, 0};
+aromaticValences["Si"] = {4, 0};
+aromaticValences["N"] = {3, 5};
+aromaticValences["P"] = {3, 5};
+aromaticValences["As"] = {3, 5};
+aromaticValences["O"] = {2, 4};
+aromaticValences["S"] = {2, 4};
+aromaticValences["Se"] = {2, 4};
+aromaticValences["Te"] = {2, 4};
 
-// aromaticSubset
 
 string indexAlphabet[16] = {
    "[C]", "[Ring1]", "[Ring2]",
    "[Branch1]", "[=Branch1]", "[#Branch1]",
    "[Branch2]", "[=Branch2]", "[#Branch2]",
    "[O]", "[N]", "[=N]", "[=C]", "[#C]", "[S]", "[P]"
-}
+};
 
 //indexCode
+   return 0; 
+}
