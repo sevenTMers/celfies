@@ -10,6 +10,8 @@ Follow the originators of the ideas & code [@MarioKrenn](https://github.com/Mari
 
 # References
 
+(2020) [Augmenting genetic algorithms with deep neural networks for exploring the chemical space](https://github.com/sevenTMers/celfies/blob/main/papers/AUGMENTING_GENETIC_ALGORITHMS_WITH_DEEP_NEURAL_NETWORKS_FOR_EXPLORING_THE_CHEMICAL_SPACE.pdf)
+
 (2019) [A graph-based genetic algorithm and generative model/Monte Carlo tree search for the exploration of chemical space](https://github.com/sevenTMers/celfies/blob/main/papers/A_graph_based_genetic_algorithm_and_generative_model_Monte_Carlo_tree_search_for_the_exploration_of_chemical_space.pdf)
 
 (2019 [How to explore chemical space_using algorithms and automation](https://github.com/sevenTMers/celfies/blob/main/papers/How_to_explore_chemical_space_using_algorithms_and_automation.pdf)
