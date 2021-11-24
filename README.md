@@ -20,6 +20,8 @@ Follow the originators of the ideas & code [@MarioKrenn](https://github.com/Mari
 
 (2018) [Inverse molecular design using machine learning: Generative models for matter engineering](https://github.com/sevenTMers/celfies/blob/main/papers/Inverse_molecular_design_using_machine_learning_Generative_models_for_matter_engineering.pdf)
 
+(2017) [https://github.com/sevenTMers/celfies/blob/main/papers/Automatic_Chemical_Design_Using_a_Data_Driven_Continuous_Representation_of_Molecules.pdf](https://github.com/sevenTMers/celfies/blob/main/papers/Automatic_Chemical_Design_Using_a_Data_Driven_Continuous_Representation_of_Molecules.pdf)
+
 (2013) [Stochastic Voyages into Uncharted Chemical Space Produce a Representative Library of All Possible Drug-Like Compounds](https://github.com/sevenTMers/celfies/blob/main/papers/Stochastic_Voyages_into_Uncharted_Chemical_Space_Produce%20a_Representative_Library_of_All_Possible_Drug_Like_Compounds.pdf)
 
 (2001) [Chemography: The Art of Navigating in Chemical Space](https://github.com/sevenTMers/celfies/blob/main/papers/chemography_the_art_of_navigating_in_chemical_space.pdf)
