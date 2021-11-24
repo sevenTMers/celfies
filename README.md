@@ -16,7 +16,7 @@ Follow the originators of the ideas & code [@MarioKrenn](https://github.com/Mari
 
 (2019) [Deep learning for molecular design a review of the state of the art.pdf](https://github.com/sevenTMers/celfies/blob/main/papers/Deep_learning_for_molecular_design_a_review_of_the_state_of_the_art.pdf)
 
-(2018) [https://github.com/sevenTMers/celfies/blob/main/papers/DeepSMILES_An_adaptation_of_SMILES_for_use_in_machine_learning_of_chemical_structures.pdf](https://github.com/sevenTMers/celfies/blob/main/papers/DeepSMILES_An_adaptation_of_SMILES_for_use_in_machine_learning_of_chemical_structures.pdf)
+(2018) [DeepSMILES: An Adaptation of SMILES for Use in Machine-Learning of Chemical Structures](https://github.com/sevenTMers/celfies/blob/main/papers/DeepSMILES_An_adaptation_of_SMILES_for_use_in_machine_learning_of_chemical_structures.pdf)
 
 (2018) [Inverse molecular design using machine learning: Generative models for matter engineering](https://github.com/sevenTMers/celfies/blob/main/papers/Inverse_molecular_design_using_machine_learning_Generative_models_for_matter_engineering.pdf)
 
