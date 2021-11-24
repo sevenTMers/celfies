@@ -10,7 +10,9 @@ Follow the originators of the ideas & code [@MarioKrenn](https://github.com/Mari
 
 # References
 
-(2001) [Chemography: The Art of Navigating in Chemical Space)(https://github.com/sevenTMers/celfies/blob/main/papers/chemography_the_art_of_navigating_in_chemical_space.pdf)
+(2013) [Stochastic Voyages into Uncharted Chemical Space Produce a Representative Library of All Possible Drug-Like Compounds](https://github.com/sevenTMers/celfies/blob/main/papers/Stochastic_Voyages_into_Uncharted_Chemical_Space_Produce%20a_Representative_Library_of_All_Possible_Drug_Like_Compounds.pdf)
+
+(2001) [Chemography: The Art of Navigating in Chemical Space](https://github.com/sevenTMers/celfies/blob/main/papers/chemography_the_art_of_navigating_in_chemical_space.pdf)
 
 (1988) [SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules](https://github.com/sevenTMers/celfies/blob/main/papers/SMILES_a_chemical%20language_and_information_system_introduction_to_methodology_and_encoding_rules.pdf)
 
