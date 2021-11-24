@@ -10,6 +10,8 @@ Follow the originators of the ideas & code [@MarioKrenn](https://github.com/Mari
 
 # References
 
+(2019 [How to explore chemical space_using algorithms and automation](https://github.com/sevenTMers/celfies/blob/main/papers/How_to_explore_chemical_space_using_algorithms_and_automation.pdf)
+
 (2019) [https://github.com/sevenTMers/celfies/blob/main/papers/Deep_learning_for_molecular_design_a_review_of_the_state_of_the_art.pdf](https://github.com/sevenTMers/celfies/blob/main/papers/Deep_learning_for_molecular_design_a_review_of_the_state_of_the_art.pdf)
 
 (2018) [Inverse molecular design using machine learning: Generative models for matter engineering](https://github.com/sevenTMers/celfies/blob/main/papers/Inverse_molecular_design_using_machine_learning_Generative_models_for_matter_engineering.pdf)
