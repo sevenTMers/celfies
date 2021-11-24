@@ -8,6 +8,10 @@ Why? Because [RDKit in C++](https://www.rdkit.org/docs/GettingStartedInC++.html)
 
 Follow the originators of the ideas & code [@MarioKrenn](https://github.com/MarioKrenn6240), [@AlstonLo](https://github.com/alstonlo), [@SeyoneChithrananda](https://github.com/seyonechithrananda)
 
+# References
+
+(1988) [SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules](https://github.com/sevenTMers/celfies/blob/main/papers/SMILES_a_chemical%20language_and_information_system_introduction_to_methodology_and_encoding_rules.pdf)
+
 # License
 
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
